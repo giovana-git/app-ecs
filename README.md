@@ -1,1 +1,1 @@
-# git-actions-study
+# github-actions-study
